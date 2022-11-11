@@ -1,0 +1,28 @@
+Dark Shade 100% 
+#1F2041
+
+Dark Shade 75%
+#1F2041
+
+Dark Shade 50%
+#1F2041
+
+Dark Shade 25%
+#1F2041
+
+Dark Shade 5%
+#1F2041
+
+Purple
+#BC9CFF
+
+Green
+#6FCF97
+
+H1 Montserrat 24px Bold
+
+H2 Montserrat 19px Bold
+
+H3 Montserrat 12px Bold Uppercase
+
+Body Montserrat 14px Regular fill: #1F2041 75% lh 24px
